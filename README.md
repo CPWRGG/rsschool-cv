@@ -1,1 +1,1 @@
-# rsschool-cv
+https://CPWRGG.github.io/rsschool-cv/cv
