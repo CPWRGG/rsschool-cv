@@ -1,4 +1,4 @@
-![avatar](/C:\Users\Марк\Desktop\Универ\Всякий кал\рофличи\Хагрид.jpg)
+![avatar](/C:/Users/Марк/Desktop/Универ/Всякий кал/рофличи/Хагрид.jpg)
 # Zyubanov Mark
 *RS School student. JS/FE (stage0) Q2*
 # About Me
